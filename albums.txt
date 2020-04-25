@@ -1,0 +1,7 @@
+6
+Rémi,Gallego,The Algorithm|Brute Force|Electronic|boot;floating point;pointers;brute force|2016
+Rémi,Gallego,The Algorithm|Brute Force|Electronic|userspace;shellcode;hex;deadlock;rootkit;trojans;pointers;brute force|2016
+Lauren,Bousfield,Nero's Day At Disneyland|From Rotting Fantasylands|Electronic|In Aisles;Civilizing People;No Money down,Low Monthly Payments;Child Protective Services Theme Song;Charging Swarm of Mousketeers;Everything Must Go;Death Parade;Action Winter Journey;Scretcher Linen Over Controrted Bodies;Eulogy For Nick Galvas;In Keyed Fantasy;Probably End Up Dead In A Ditch Somewhere;Plumes Of ATM Sinew;Vengeance In CloudLand;Sprawling Idiot Effigy|2009
+Serj,Tankian,SOAD|Toxicity|Rock|Chop Suey!;Atwa;Toxicity|2001
+Serj,Tankian,SOAD|SOAD|Rock|Suite-Pee;Know;Sugar;Suggestion;Spiders;Ddevil;Soil;War?;Mind;Peephole;CUBErt;Darts;P.L.U.C.K|1998
+Tom,Fihe,If These Trees Could Talk|Above the Earth, Below the ground|Postrock|From Roots to Needles;What's in the Ground Belongs to You;Terra Incognita;Above the Earth;Below the Sky;The Sun is in the North;Thirty-Six Silos;The Flames of Herostratus;Rebuilding the Temple of Arthemis;Deus Ex Machina|1998

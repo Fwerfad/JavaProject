@@ -1,0 +1,8 @@
+7
+Music:Rock,Experimental,Classic,African,Metal
+African:Jazz,Blues
+Rock:Alternative,Punk,Folk,Acoustic,Hard,Postrock
+Pop:Synthpop,Hip Hop
+Experimental:Industrial,Ambient,Downtempo
+Classic:Piano,Opera,Brass,Chamber
+Metal:Heavy,Death,Hardcore,Nu,Vikingx
